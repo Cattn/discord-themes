@@ -4,7 +4,7 @@
 ## Installation Info:
 
 ### Installation Method 1: (Recommended)
-Go to inject.js, copy it's contents and paste it into your console (CTRL + SHIFT + I) and hit enter.
+Go to inject.js, copy it's contents and paste it into your discord console (CTRL + SHIFT + I) and hit enter. (Not sure how to access console? Scroll down.)
 
 ### Installation Method 2: (Manual)
 Just Download amoled.css, then go to Dev Console in discord (CTRL + SHIFT + I). Then navigate to the sources tab, you may have to hit the arrow button to show more options (top of devtool window).
